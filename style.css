@@ -18,9 +18,13 @@ body {
 }
 
 @media (max-width:768px) {
-.header-wrapper { text-align: center;
+
+.header-wrapper { 
+    text-align: center;
+  }
+  
 }
-}
+
 .content-wrapper {
     display: block;
     width: 500px;
